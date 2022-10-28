@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author chuck
- *
- */
-module Algorithm {
-}
